@@ -10,8 +10,5 @@ class MainActivity : AppCompatActivity() {
 
         print("Test message for second git commit")
 
-
-        error in program to test revert with git this is a error line
-
     }
 }
